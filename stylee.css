@@ -1,0 +1,321 @@
+.fondo {
+  /* WEB PRESENTACION */
+
+  position: relative;
+  width: 1440px;
+  height: 1024px;
+
+  margin: 0%;
+  padding: 0%;
+
+  background: url(/Pagina_Santi/imagenes/Fondo.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.imagen {
+  /* Imagen */
+
+  position: absolute;
+  width: 467px;
+  height: 467px;
+  left: 863px;
+  top: 17px;
+
+  border-radius: 360px;
+  background: #d9d9d9;
+}
+
+.informacionpersonal {
+  /* InformacionBasica */
+
+  position: absolute;
+  width: 474px;
+  height: 388px;
+  left: 158px;
+  top: 108px;
+
+  background: linear-gradient(180deg, #000000 0%, rgba(0, 0, 0, 0) 100%);
+}
+
+.txtnombre {
+  /* Santiago Guzmán González */
+
+  position: absolute;
+  left: 34.39%;
+  right: 8.65%;
+  top: 3.09%;
+  bottom: 90.72%;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+
+  color: #ffffff;
+}
+
+.txtrol {
+  /* Estudiante Ingeniería Informática */
+
+  position: absolute;
+  left: 40.3%;
+  right: 14.35%;
+  top: 9.28%;
+  bottom: 86.34%;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 17px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+
+.correoinstitucional {
+  /* Correo Institucional: sguzmang@correo.iue.edu.co */
+
+  position: absolute;
+  left: 6.96%;
+  right: 23.42%;
+  top: 59.28%;
+  bottom: 36.34%;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 17px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+
+.correopersonal {
+  /* Correo Personal: santiagog.g@hotmail.com */
+
+  position: absolute;
+  left: 6.96%;
+  right: 33.54%;
+  top: 64.43%;
+  bottom: 31.19%;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 17px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+
+.github {
+  /* GitHub: https://github.com/ElCabe23/Programacion-Web.git */
+
+  position: absolute;
+  left: 7.17%;
+  right: 9.7%;
+  top: 69.59%;
+  bottom: 26.03%;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 17px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+
+.txttel {
+  /* Telefono: 3117976881 */
+
+  position: absolute;
+  left: 6.96%;
+  right: 63.08%;
+  top: 74.74%;
+  bottom: 20.88%;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 17px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+
+.neocities {
+  /* Neocities: */
+
+  position: absolute;
+  left: 7.17%;
+  right: 78.9%;
+  top: 79.9%;
+  bottom: 15.72%;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 17px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+
+.iue {
+  /* Logo */
+
+  position: absolute;
+  width: 266px;
+  height: 267px;
+  left: 47px;
+  top: 54px;
+
+  border-radius: 360px;
+  background: url(/Pagina_Santi/imagenes/Logo.png);
+}
+
+.cuadrodiseño {
+  /* Diseños */
+
+  position: absolute;
+  width: 326px;
+  height: 400px;
+  left: 1097px;
+  top: 512px;
+  background: linear-gradient(180deg, #000000 0%, rgba(0, 0, 0, 0) 100%);
+}
+
+.txtDiseño {
+  /* DISEÑOS */
+
+  position: absolute;
+  left: 36.2%;
+  right: 36.5%;
+  top: 3.75%;
+  bottom: 90.25%;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+
+  color: #ffffff;
+}
+
+.cuadroRepositorios {
+  /* Repositorios */
+
+  position: absolute;
+  width: 326px;
+  height: 400px;
+  left: 741px;
+  top: 512px;
+
+  background: linear-gradient(180deg, #000000 0%, rgba(0, 0, 0, 0) 100%);
+}
+
+.txtRepositorios {
+  /* REPOSITORIOS */
+
+  position: absolute;
+  left: 26.99%;
+  right: 27.3%;
+  top: 3.75%;
+  bottom: 90.25%;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+
+  color: #ffffff;
+}
+
+.cuadroActividades {
+  /* Actividades */
+
+  position: absolute;
+  width: 326px;
+  height: 400px;
+  left: 384px;
+  top: 512px;
+  background: linear-gradient(180deg, #000000 0%, rgba(0, 0, 0, 0) 100%);
+}
+
+.txtactividades {
+  /* ACTIVIDADES */
+
+  position: absolute;
+  left: 28.83%;
+  right: 28.83%;
+  top: 2.5%;
+  bottom: 91.5%;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+
+  color: #ffffff;
+}
+
+.cuadroretos {
+  /* Retos */
+
+  position: absolute;
+  width: 326px;
+  height: 400px;
+  left: 28px;
+  top: 512px;
+  background: linear-gradient(180deg, #000000 0%, rgba(0, 0, 0, 0) 100%);
+}
+
+.txtRetos {
+  /* RETOS */
+
+  position: absolute;
+  left: 39.88%;
+  right: 39.57%;
+  top: 3.75%;
+  bottom: 90.25%;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+
+  color: #ffffff;
+}
+
+.txtfooter {
+  /* PÁGINA REALIZADA POR: EL CABE */
+
+  position: absolute;
+  width: 336px;
+  height: 24px;
+  left: 552px;
+  top: 982px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+
+  color: #ffffff;
+}
